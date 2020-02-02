@@ -1,29 +1,13 @@
 ## Welcome to Home Of Scince " Gate of knowledg "
 
-You can use the [editor on GitHub](https://github.com/ahmadmamdouh1995/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # *Ahmad Mamdouh
 ## An Electrical Engineering looking for the knowledge in all the world 
 ### Future Need US 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://previews.123rf.com/images/urfingus/urfingus1510/urfingus151000098/46068724-concept-of-training-wooden-bookshelf-full-of-books-in-form-of-house-the-home-of-knowledge-homework-a.jpg)
+[Link]()
+![Image](https://previews.123rf.com/images/urfingus/urfingus1510/urfingus151000098/46068724-concept-of-training-wooden-bookshelf-full-of-books-in-form-of-house-the-home-of-knowledge-homework-a.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
