@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://previews.123rf.com/images/urfingus/urfingus1510/urfingus151000098/46068724-concept-of-training-wooden-bookshelf-full-of-books-in-form-of-house-the-home-of-knowledge-homework-a.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
