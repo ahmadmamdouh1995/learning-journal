@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Home Of Scince " Gate of knowledg "
 
 You can use the [editor on GitHub](https://github.com/ahmadmamdouh1995/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# *Ahmad Mamdouh
+## An Electrical Engineering looking for the knowledge in all the world 
+### Future Need US 
 
 - Bulleted
 - List
