@@ -1,6 +1,6 @@
-## Welcome to Home Of Scince " *Gate of knowledg* "
+## Welcome to Home Of Scince "  *Gate of knowledg* "
 
-# the growth mindset is that way how keep your self devloping and you can improve your skills 
+# the growth mindset is that way   how keep your self devloping and you can improve your skills 
 ## we can keep growth mindset in three important steps
 1. when we keeping in touch with the lateast knowledge 
 2. keep in touch with smart
