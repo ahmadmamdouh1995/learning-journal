@@ -20,3 +20,13 @@ There are 2 types of paths we can use,
 ## summery 
 - file : obtain information about what type of file a file or directory is.
 - ls -a : List the contents of a directory, including hidden files.
+
+## list of some Jornual files :
+- htmlread4
+- index
+- learn 
+- read01
+- read02
+- read05
+- read06a
+
