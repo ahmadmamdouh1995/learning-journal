@@ -1,4 +1,4 @@
-## Logic Circuits :
+# Logic Circuits :
 - Simple circuit is "Not" and there are more like "AND" ,"OR" ,"NAND" ,"NOR" ,"XOR" and "XNOR".
 by using these simple circuits you can made complex ones (8 Bit-adder)and tht called logic gates .
 
