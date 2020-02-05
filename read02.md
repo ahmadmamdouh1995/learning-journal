@@ -22,11 +22,8 @@ There are 2 types of paths we can use,
 - ls -a : List the contents of a directory, including hidden files.
 
 ## list of some Jornual files :
-- htmlread4
-- index
-- learn 
-- read01
-- read02
-- read05
-- read06a
+- [read01](https://ahmadmamdouh1995.github.io/learning-journal/read01)
+- [read02](https://ahmadmamdouh1995.github.io/learning-journal/read02)
+- [read05](https://ahmadmamdouh1995.github.io/learning-journal/read05)
+- [read06a](https://ahmadmamdouh1995.github.io/learning-journal/read06a)
 
